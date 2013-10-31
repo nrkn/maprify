@@ -1,3 +1,4 @@
+```javascript
 var interfaces = {
   Point: {
     x: 'Number',
@@ -39,3 +40,4 @@ var mappings = {
 var mapper = new Maprify( interfaces, mappings );
 var element = $( '.elephant' );
 var rectangle = mapper.Rectangle( element );
+```
