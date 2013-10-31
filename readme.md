@@ -1,4 +1,8 @@
 ```javascript
+/*
+  maprify
+*/
+  
 var interfaces = {
   Point: {
     x: 'Number',
