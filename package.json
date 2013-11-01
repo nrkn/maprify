@@ -1,0 +1,40 @@
+{
+  "name": "maprify",
+  "version": "0.1.0",
+  "description": "object to object conversion via interfascist",
+  "homepage": "http://github.com/nrkn/maprify",
+  "bugs": {
+    "url": "http://github.com/nrkn/maprify/issues",
+    "email": "nrkn.com@gmail.com"
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/nrkn/maprify.git"
+  },
+  "keywords": [
+    "maprify",
+    "map",
+    "mapping",
+    "mapper",
+    "convert",
+    "converter",
+    "conversion",
+    "interfascist",
+    "interface",
+    "interfaces",
+    "npm",
+    "javascript",
+    "json"
+  ],
+  "dependencies": {
+    "underscore": "~1.4.4",
+    "interfascist": "~0.9.2"
+  },
+  "author": {
+    "name": "Nik Coughlin",
+    "email": "nrkn.com@gmail.com",
+    "url": "http://nrkn.com"
+  },
+  "license": "MIT"  
+}
